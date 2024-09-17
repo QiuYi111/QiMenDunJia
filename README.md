@@ -3,8 +3,8 @@
 
 奇门遁甲乃是中国古代哲学的结晶，展示的是一套世界观。
 
-本仓库基于荀爽教程。分为多个文档，分别讲解
+本仓库为基于bilibili Up主荀爽教程的自学笔记。分为多个文档，分别讲解
 
 + [奇门遁甲取象](https://github.com/QiuYi111/QIMENDUJIA/blob/master/%E5%A5%87%E9%97%A8%E9%81%81%E7%94%B2%E5%8F%96%E8%B1%A1.md)；
 
-+ [八门化气阵](https://github.com/QiuYi111/QIMENDUJIA/blob/master/%E5%85%AB%E9%97%A8%E5%8C%96%E6%B0%94.md)
++ [八门化气阵](https://github.com/QiuYi111/QIMENDUJIA/blob/master/%E5%85%AB%E9%97%A8%E5%8C%96%E6%B0%94.md);
