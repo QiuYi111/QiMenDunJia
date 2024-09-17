@@ -8,3 +8,5 @@
 + [奇门遁甲取象](https://github.com/QiuYi111/QIMENDUJIA/blob/master/%E5%A5%87%E9%97%A8%E9%81%81%E7%94%B2%E5%8F%96%E8%B1%A1.md)；
 
 + [八门化气阵](https://github.com/QiuYi111/QIMENDUJIA/blob/master/%E5%85%AB%E9%97%A8%E5%8C%96%E6%B0%94.md);
+
++ [财富事业](https://github.com/QiuYi111/QiMenDunJia/blob/master/%E8%B4%A2%E5%AF%8C%E4%BA%8B%E4%B8%9A.md);
