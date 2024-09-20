@@ -11,6 +11,8 @@
 
 + [财富事业](https://github.com/QiuYi111/QiMenDunJia/blob/master/%E8%B4%A2%E5%AF%8C%E4%BA%8B%E4%B8%9A.md);
 
++ [姻缘桃花](https://github.com/QiuYi111/QiMenDunJia/blob/master/%E5%A7%BB%E7%BC%98.md)
+
 # 方便法门
 除了奇门遁甲这种正式、详细的术数之外，还有不少更加简单、便捷的方便法门，这里也会分别介绍：
 + [小六壬](https://github.com/QiuYi111/QiMenDunJia/blob/master/%E5%B0%8F%E5%85%AD%E5%A3%AC.md);
